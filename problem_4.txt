@@ -1,0 +1,9 @@
+What is the difference between an interpreted and a compiled language?  What are the strengths and weaknesses of each?
+Give an example of each, and list a situation for each where a developer should choose one over the other.
+
+Well an interpreted language is stuff like Javascript where you write the code and it stays in a file until needed to be read by an
+interpreter. While a compliled language something like Java, you don't need any interpreter because you compile the code into in Java's case
+an exe.
+
+If you want to write something in Javascript you would use an interpreted, most web stuff use interpreted while most softwares use
+compiled.

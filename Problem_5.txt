@@ -1,0 +1,4 @@
+Explain the concept of an algorithm in terms that a young child (6-8 years old) could understand.
+
+An algorithm is the way you get from one thing, to another thing. It could be anything from getting letters from a word, or
+cool stuff like ai.

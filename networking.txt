@@ -1,0 +1,14 @@
+HTTP/S
+DNS
+Packets
+TCP and/or UDP
+Client
+Server
+Headers
+REST
+
+Alright when you type the web address your computer (the client) will send a GET request to whatever domain you have with headers.
+The domain will then run threw a dns to get the ip address. Once you get the ip address the GET request will go to the server and
+the server will return something. If you wanted to connect with a packet it's a constant stream opposed to a request-response
+system that websites do. REST is part of the Restful routes and they are used for apis and stuff. HTTP and HTTPS or protocols
+and HTTP on :80 and HTTPS on :443. HTTP is secured while HTTP is not. TCP is a way of protecting data and stuff. Yeah
