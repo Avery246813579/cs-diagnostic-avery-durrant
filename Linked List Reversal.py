@@ -70,4 +70,4 @@ print(list)
 
 list.reverse()
 
-print(str(list))
+print(list)
